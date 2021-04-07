@@ -1,0 +1,16 @@
+.borderGreen {
+    box-shadow: rgb(52, 160, 16) 3px 3px 6px 0px inset, rgba(255, 255, 255, 0.5) -3px -3px 6px 1px inset;
+  }
+ 
+  .borderRed {
+    box-shadow: rgb(187, 28, 28) 3px 3px 6px 0px inset, rgba(255, 255, 255, 0.5) -3px -3px 6px 1px inset;    
+  }
+  
+  .info {
+    border-radius: 10px;
+    padding: 2px;
+    box-shadow: rgba(17, 17, 26, 0.1) 0px 0px 16px;
+  }
+  .card {
+    margin-bottom: 9px;
+  }
